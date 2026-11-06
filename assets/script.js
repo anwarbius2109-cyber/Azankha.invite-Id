@@ -65,7 +65,7 @@ fetch("data/katalog.json")
   });
 function tampilkan(){
   const katalog = document.getElementById("katalog");
-  const nomorWA = "6283160422979";
+  const nomorWA = "6289621446606";
 
   katalog.innerHTML = "";
 
